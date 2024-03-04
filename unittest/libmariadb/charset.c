@@ -799,7 +799,7 @@ static int test_conc223(MYSQL *mysql)
 
   /*
     Test if we're running against an MDEV-27266 server.
-    It can be detected by the presense of the FULL_COLLATION_NAME
+    It can be detected by the presence of the FULL_COLLATION_NAME
     column in I_S.COLLATION_CHARACTER_SET_APPLICABILITY.
   */
   rc= mysql_query(mysql,

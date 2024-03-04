@@ -279,7 +279,7 @@ enum opt_metadata_field_type
 /* ??? */
 #define LOG_EVENT_UPDATE_TABLE_MAP_F        0x0010
 
-/* Artifical event */
+/* Artificial event */
 #define LOG_EVENT_ARTIFICIAL_F              0x0020
 
 /* ??? */

@@ -547,7 +547,7 @@ int exit_status() {
    or no benefit.  It is acceptable to do a exhaustive test if it
    doesn't take too long to run and it is quite common to do an
    exhaustive test of a function for a small set of values.
-   Use your judgment to decide what is excessive: your milage may
+   Use your judgment to decide what is excessive: your mileage may
    vary.
 */
 
